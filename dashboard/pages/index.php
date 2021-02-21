@@ -36,7 +36,7 @@ $budget_date = $budgetData[2];
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>SB Admin 2 - Bootstrap Admin Theme</title>
+    <title>Midas</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="../bower_components/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
@@ -90,8 +90,8 @@ $budget_date = $budgetData[2];
               <div class="item active">
                 <img class="img-responsive" src="../images/refresh.png" alt="...">
                 <div class="carousel-caption" style="color:red;">
-                  Click the refresh button to load receipts from your email. The page will load for a maximum of around 20 minutes to sync a maximum of 170 receipts at a time. Allow it to load and don't click anything. If an error shows up, log back in and click the refresh
-                  button again. Hopefully it works!
+                  Click the refresh button to load receipts from your email. The page will load for a maximum of around 5 minutes to sync a test of around 30 receipts at a time. Allow it to load and don't click anything. If an error shows up, log back in and click the refresh
+                  button again. Hopefully it works as it should!
                 </div>
               </div>
               <div class="item">
@@ -179,7 +179,7 @@ $budget_date = $budgetData[2];
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="index.php">SB Admin v2.0</a>
+          <a class="navbar-brand" href="index.php">Midas</a>
         </div>
         <!-- /.navbar-header -->
 
