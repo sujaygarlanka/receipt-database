@@ -1,3 +1,9 @@
+  <!DOCTYPE html>
+  <html lang="en">
+      <title>Receipt</title>
+      
+</html>
+
 <?php
 include "../php/functions.php";
 // session started in the functions.php file which is included

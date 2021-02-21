@@ -35,7 +35,7 @@ for ($i=0; $i<$length - 1; $i++){
 updateNumberReceipts($receiptsArray[$length-1]);
 $numReceipts = $receiptsArray[$length-1];
 
-if ($numReceipts == 0 || $_SESSION['numload'] == 17){
+if ($numReceipts == 0 || $_SESSION['numload'] == 3){
     $_SESSION['numload'] = 1;
     header('Location: http://' . $_SERVER['HTTP_HOST'] . '/receipt_database/dashboard/pages/index.php');
 }

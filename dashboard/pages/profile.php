@@ -16,7 +16,7 @@ $user = getUser($_SESSION['username']);
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>SB Admin 2 - Bootstrap Admin Theme</title>
+    <title>Midas</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="../bower_components/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
@@ -61,7 +61,7 @@ $user = getUser($_SESSION['username']);
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="index.php">SB Admin v2.0</a>
+          <a class="navbar-brand" href="index.php">Midas</a>
         </div>
         <!-- /.navbar-header -->
 

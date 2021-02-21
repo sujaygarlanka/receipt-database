@@ -3,6 +3,7 @@
 <head>
   <meta name="google-signin-scope" content="profile email">
   <meta name="google-signin-client_id" content="847988252764-9e1mcnedo52037n0l0scf3hdo2bpgnmv.apps.googleusercontent.com">
+  <title>Midas</title>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
   <script src="https://apis.google.com/js/platform.js" async defer></script>
   <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Roboto:100,100i,400">
@@ -42,7 +43,7 @@
 <body>
   <div class='center'>
     <img src="https://www.nssc.org/images/design/register-icon.png" alt="Logo" style="max-width:100px; max-height:100px;">
-    <h1>Receipt Database</h1>
+    <h1>Midas</h1>
     <h3>A way to catalog and analyze email receipts.</h3>
     <div class="g-signin2" data-onsuccess="onSignIn" data-theme="light" data-width="300" data-height="50" data-longtitle="true"></div>
     <!--<a href="#" onclick="signOut();">Sign out</a>-->
