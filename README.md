@@ -1,6 +1,7 @@
 # Receipt Database (Midas)
 
 <img src="https://raw.githubusercontent.com/sujaygarlanka/receipt-database/master/media/Midas%20Preview.gif" width="600" height="350"/>
+
 Full demo video [here](./media/Midas%20Preview.gif)
 
 Midas is a money management tool I built that catalogs and analyzes e-receipts from users' Gmail in a user-friendly dashboard. Its features are:
