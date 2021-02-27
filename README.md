@@ -1,6 +1,6 @@
 # Receipt Database (Midas)
 
-<img style="min-width: 400px" src="https://raw.githubusercontent.com/sujaygarlanka/receipt-database/master/media/Midas%20Preview.gif" width="60%"/>
+<img style="min-width: 400px" src="https://raw.githubusercontent.com/sujaygarlanka/receipt-database/master/media/Midas%20Preview.gif" width="70%"/>
 
 Full demo video [here](./media/Midas%20Preview.gif)
 
