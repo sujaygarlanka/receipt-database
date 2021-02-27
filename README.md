@@ -11,4 +11,4 @@ Midas is a money management tool I built that catalogs and analyzes e-receipts f
 - Extracts data from the e-receipts and graphs the expenditures by days, weeks or months.
 - Allows users to set budgets
 
-<img src="https://raw.githubusercontent.com/sujaygarlanka/receipt-database/master/media/languages.png" width="400px"/>
+<img src="https://raw.githubusercontent.com/sujaygarlanka/receipt-database/master/media/languages-small.png" width="300px"/>
