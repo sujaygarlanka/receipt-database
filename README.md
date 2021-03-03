@@ -2,7 +2,7 @@
 
 <img style="min-width: 400px" src="https://raw.githubusercontent.com/sujaygarlanka/receipt-database/master/media/Midas%20Preview.gif" width="70%"/>
 
-Full demo video [here](https://www.youtube.com/watch?v=qonTct_nAA4&feature=youtu.be&ab_channel=SujayGarlanka)
+Full demo video [here](https://youtu.be/qonTct_nAA4)
 
 Midas is a money management tool I built that catalogs and analyzes e-receipts from users' Gmail in a user-friendly dashboard. Its features are:
 
